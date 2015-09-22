@@ -37,3 +37,6 @@ eagle.epf
 
 # Production file
 *.zip
+
+# OS X trouble
+.DS_Store
